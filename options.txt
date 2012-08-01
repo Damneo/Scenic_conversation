@@ -1,0 +1,17 @@
+----------------------------PLUGIN DE CONVERSATION SCÉNIQUE----------------------------
+
+OPTIONS
+	
+	- afficher/cacher les persos qui ne parlent pas 									DONE
+	- afficher la conversation au dessus des persos/tout le temps au même endroit		DONE
+		- faire précéder le texte par le prénom du persos            					DONE
+	- choisir la touche pour afficher la conversation suivante							DONE
+	- proposer un lien en bas de la conversation courante pour afficher la suivante
+	- choisir la manière d'afficher le texte (fadeIn / machine à écrire)
+
+--------
+
+A FAIRE
+
+	- affichage conversation au dessus des persos : Gérer la position (trop à droite, trop en haut)
+	- si le texte est plus grand que la div, l'afficher en plusieurs fois

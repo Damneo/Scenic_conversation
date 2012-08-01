@@ -1,0 +1,59 @@
+#characters div {
+	width:100px;
+	height:100px;
+	position:absolute;
+}
+
+#Dam {
+	left:20px;
+	background:url(../img/mario.png) no-repeat;
+	bottom:10px;
+	width:171px;
+	height:197px;
+
+}
+
+#Dam.normal {
+	background:url(../img/mario.png) no-repeat;
+	width:171px;
+	height:197px;
+}
+
+#Dam.angry {
+	background:#ff0000;
+}
+
+#Dam.happy {
+	background:#00ff00;
+}
+
+#Pierre {
+	background:url(../img/luigi.png) no-repeat;
+	left:340px;
+	top:200px;
+	width:171px;
+	height:201px;
+}
+
+#Pierre.normal {
+	background:url(../img/luigi.png) no-repeat;
+	width:171px;
+	height:201px;
+}
+
+#Gaelle {
+	background:#ababab;
+	right:560px;
+	bottom:300px;
+}
+
+#dialogs {
+	width:200px;
+	padding:20px;
+	border:10px solid #5e5d5b;
+	background:#000;
+	color:#fff;
+	border-radius:20px;
+	font-family:Arial;
+	border
+}
